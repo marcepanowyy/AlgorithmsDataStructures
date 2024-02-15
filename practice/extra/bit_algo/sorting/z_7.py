@@ -1,0 +1,1 @@
+Dane jest slowo bedace tablica n znakow z alfabetu E o rozmiarze |E|.
